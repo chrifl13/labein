@@ -1,0 +1,27 @@
+	body {	  
+	    font-family: Georgia, "Times New Roman",
+          Times, serif;
+	color: purple;
+    background-color: #d8da3d }
+	  ol.navbar {
+	   list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 3em;
+    left: 3em;
+    width: 5em }
+	 h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+	 ol.navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+  ol.navbar a {
+    text-decoration: none }
+  a:link {
+    color: blue }
+  a:visited {
+    color: red }
+	 
